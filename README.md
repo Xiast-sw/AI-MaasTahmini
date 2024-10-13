@@ -9,3 +9,6 @@ Kullanıcı dostu arayüz<br>
 Kullanıcıdan alınan verilere göre maaş tahmini<br>
 Verilerin rastgele oluşturulması<br>
 Polinomik regresyon ile modelleme<br>
+
+## Katkıda Bulunanlar
+ ***Adil Buğra AYTAR***
