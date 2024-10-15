@@ -1,15 +1,23 @@
-# AI Maaş Tahmini
+# Yapay Zeka ile Maaş Tahmini
 
-### Proje Açıklaması
-Bu proje, çalışanların deneyim yılı, pozisyon, eğitim durumu, yaş ve şehir gibi faktörleri kullanarak maaş tahmini yapabilen bir yapay zeka modelini geliştirmeyi amaçlamaktadır.
+Bu proje, çeşitli özelliklere dayalı olarak maaş tahminleri yapmak için yapay zeka kullanmaktadır. Veri seti rastgele oluşturulmuştur ve çeşitli faktörler dikkate alınarak maaş tahminleri yapılmıştır.
 
+## Veri Seti
 
-### Özellikler
-Kullanıcı dostu arayüz<br>
-Kullanıcıdan alınan verilere göre maaş tahmini<br>
-Verilerin rastgele oluşturulması<br>
-Polinomik regresyon ile modelleme<br>
+Veri seti, çalışanların eğitim düzeyi, deneyim süresi, pozisyon gibi özelliklerini içermektedir. Bu özellikler kullanılarak maaş tahmini yapılmaktadır.
+
+## Kullanılan Teknolojiler
+
+- Python
+- Scikit-learn
+- Pandas
+- NumPy
+
 
 ## Katkıda Bulunanlar
+
  ***Adil Buğra AYTAR***
+ 
 ### Lisans
+
+Bu proje MIT lisansı altında lisanslanmıştır.
