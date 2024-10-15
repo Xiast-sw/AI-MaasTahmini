@@ -12,3 +12,4 @@ Polinomik regresyon ile modelleme<br>
 
 ## Katkıda Bulunanlar
  ***Adil Buğra AYTAR***
+### Lisans
