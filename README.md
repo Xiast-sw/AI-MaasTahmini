@@ -1,6 +1,6 @@
-# Yapay Zeka ile Maaş Tahmini
+# Salary Prediction with Artificial Intelligence
 
-Bu proje, çeşitli özelliklere dayalı olarak maaş tahminleri yapmak için yapay zeka kullanmaktadır. Veri seti rastgele oluşturulmuştur ve çeşitli faktörler dikkate alınarak maaş tahminleri yapılmıştır.
+This project uses artificial intelligence to make salary predictions based on various features. The dataset is randomly generated, and salary estimates are made by considering several factors.
 
 ## Veri Seti
 
