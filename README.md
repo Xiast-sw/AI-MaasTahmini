@@ -25,4 +25,6 @@ The project uses a Polynomial Linear Regression algorithm to create an AI model.
 
  ***Adil Buğra AYTAR***
  
-##
+## License
+
+This project is licensed under the MIT License.
