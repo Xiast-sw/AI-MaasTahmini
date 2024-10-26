@@ -11,7 +11,7 @@ The dataset includes features such as employees' education level, years of exper
 The project uses a Polynomial Linear Regression algorithm to create an AI model. This model makes salary predictions based on features such as employees' experience and education level. Polynomial regression is an extended form of linear regression and is used to capture more complex relationships within the data. This model is particularly effective when there are nonlinear relationships in the dataset.
 
 
-## Kullanılan Teknolojiler
+## Technologies Used
 
 - Python
 - Scikit-learn
@@ -21,10 +21,8 @@ The project uses a Polynomial Linear Regression algorithm to create an AI model.
 - Jupyter Notebook
 
   
-## Katkıda Bulunanlar
+## Contributors
 
  ***Adil Buğra AYTAR***
  
-### Lisans
-
-Bu proje MIT lisansı altında lisanslanmıştır.
+##
