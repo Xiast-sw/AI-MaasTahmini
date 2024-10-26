@@ -6,9 +6,9 @@ This project uses artificial intelligence to make salary predictions based on va
 
 The dataset includes features such as employees' education level, years of experience, and position. These features are used to predict salaries.
 
-## Yapay Zeka Modeli
+## Artificial Intelligence Model
 
-Proje, **Polinomial Lineer Regresyon** algoritmasını kullanarak bir yapay zeka modeli oluşturur. Bu model, çalışanların deneyim, eğitim durumu gibi özelliklerini temel alarak maaş tahminleri yapar. Polinomial regresyon, doğrusal regresyonun genişletilmiş bir biçimidir ve verilerin daha karmaşık ilişkilerini yakalamak için kullanılır. Bu model, özellikle veri setinde doğrusal olmayan ilişkilerin bulunduğu durumlarda etkilidir.
+The project uses a Polynomial Linear Regression algorithm to create an AI model. This model makes salary predictions based on features such as employees' experience and education level. Polynomial regression is an extended form of linear regression and is used to capture more complex relationships within the data. This model is particularly effective when there are nonlinear relationships in the dataset.
 
 
 ## Kullanılan Teknolojiler
