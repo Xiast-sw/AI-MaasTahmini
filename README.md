@@ -2,9 +2,9 @@
 
 This project uses artificial intelligence to make salary predictions based on various features. The dataset is randomly generated, and salary estimates are made by considering several factors.
 
-## Veri Seti
+## Dataset
 
-Veri seti, çalışanların eğitim düzeyi, deneyim süresi, pozisyon gibi özelliklerini içermektedir. Bu özellikler kullanılarak maaş tahmini yapılmaktadır.
+The dataset includes features such as employees' education level, years of experience, and position. These features are used to predict salaries.
 
 ## Yapay Zeka Modeli
 
